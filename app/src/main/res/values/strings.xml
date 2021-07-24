@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Unit_Converter_2</string>
+    <string-array name="Units">
+        <item>atto(a)</item>
+        <item>femto(f)</item>
+        <item>pico(p)</item>
+        <item>nano(n)</item>
+        <item>micro(μ)</item>
+        <item>kilo(k)</item>
+        <item>milli(m)</item>
+        <item>centi(c)</item>
+        <item>deci(d)</item>
+        <item>deka(da)</item>
+        <item>hecto(h)</item>
+        <item>mega(M)</item>
+        <item>giga(G)</item>
+        <item>tera(T)</item>
+        <item>peta(P)</item>
+        <item>exa(E)</item>
+        <item>N/A</item>
+
+
+
+
+
+    </string-array>
+</resources>
